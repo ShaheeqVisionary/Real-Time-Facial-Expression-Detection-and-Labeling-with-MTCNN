@@ -10,7 +10,7 @@ Key Features:
 
 This is a useful tool for AI researchers and developers looking to build custom datasets for emotion detection.
 
----
+--
 
 ### `README.md` File:
 
